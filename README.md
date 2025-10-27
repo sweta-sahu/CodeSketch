@@ -82,7 +82,7 @@ A user can generate code from a sketch, refactor it to use Tailwind CSS, documen
 
 The application logic is contained entirely within the browser. React components manage state and orchestrate calls to the Chrome AI APIs, which run locally.
 
-![Architecture Diagram](architecture_diagram\Architecture_diagram.png)
+![Architecture Diagram](architecture_diagram/Architecture_diagram.png)
 
 ## 5\. Judge's Guide: How to Test
 
